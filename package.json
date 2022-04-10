@@ -14,7 +14,7 @@
     "azure-arm-website": "^5.7.0",
     "dotenv": "^8.0.0",
     "execa": "^1.0.0",
-    "minimist": "^1.2.2",
+    "minimist": "^1.2.6",
     "ms-rest-azure": "^2.6.0",
     "shelljs": "^0.8.3"
   }
